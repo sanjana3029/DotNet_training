@@ -1,0 +1,14 @@
+C:\Users\sanjanagu\source\repos\basic_test\bin\Debug\basic_test.exe.config
+C:\Users\sanjanagu\source\repos\basic_test\bin\Debug\basic_test.exe
+C:\Users\sanjanagu\source\repos\basic_test\bin\Debug\basic_test.pdb
+C:\Users\sanjanagu\source\repos\basic_test\obj\Debug\basic_test.csproj.AssemblyReference.cache
+C:\Users\sanjanagu\source\repos\basic_test\obj\Debug\basic_test.csproj.CoreCompileInputs.cache
+C:\Users\sanjanagu\source\repos\basic_test\obj\Debug\basic_test.exe
+C:\Users\sanjanagu\source\repos\basic_test\obj\Debug\basic_test.pdb
+C:\Users\sanjanagu\source\repos\Assignment\C sharp\Assignment_1\obj\Debug\basic_test.csproj.AssemblyReference.cache
+C:\Users\sanjanagu\source\repos\Assignment\C sharp\Assignment_1\obj\Debug\basic_test.csproj.CoreCompileInputs.cache
+C:\Users\sanjanagu\source\repos\Assignment\C sharp\Assignment_1\obj\Debug\basic_test.exe
+C:\Users\sanjanagu\source\repos\Assignment\C sharp\Assignment_1\obj\Debug\basic_test.pdb
+C:\Users\sanjanagu\source\repos\Assignment\C sharp\Assignment_1\bin\Debug\basic_test.exe.config
+C:\Users\sanjanagu\source\repos\Assignment\C sharp\Assignment_1\bin\Debug\basic_test.exe
+C:\Users\sanjanagu\source\repos\Assignment\C sharp\Assignment_1\bin\Debug\basic_test.pdb
