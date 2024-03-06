@@ -1,0 +1,7 @@
+C:\Users\sanjanagu\source\repos\Assessment_2\bin\Debug\Assessment_2.exe.config
+C:\Users\sanjanagu\source\repos\Assessment_2\bin\Debug\Assessment_2.exe
+C:\Users\sanjanagu\source\repos\Assessment_2\bin\Debug\Assessment_2.pdb
+C:\Users\sanjanagu\source\repos\Assessment_2\obj\Debug\Assessment_2.csproj.AssemblyReference.cache
+C:\Users\sanjanagu\source\repos\Assessment_2\obj\Debug\Assessment_2.csproj.CoreCompileInputs.cache
+C:\Users\sanjanagu\source\repos\Assessment_2\obj\Debug\Assessment_2.exe
+C:\Users\sanjanagu\source\repos\Assessment_2\obj\Debug\Assessment_2.pdb
