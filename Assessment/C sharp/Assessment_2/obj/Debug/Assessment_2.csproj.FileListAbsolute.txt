@@ -5,3 +5,10 @@ C:\Users\sanjanagu\source\repos\Assessment_2\obj\Debug\Assessment_2.csproj.Assem
 C:\Users\sanjanagu\source\repos\Assessment_2\obj\Debug\Assessment_2.csproj.CoreCompileInputs.cache
 C:\Users\sanjanagu\source\repos\Assessment_2\obj\Debug\Assessment_2.exe
 C:\Users\sanjanagu\source\repos\Assessment_2\obj\Debug\Assessment_2.pdb
+D:\dotnet\Assessment\C sharp\Assessment_2\bin\Debug\Assessment_2.exe.config
+D:\dotnet\Assessment\C sharp\Assessment_2\bin\Debug\Assessment_2.exe
+D:\dotnet\Assessment\C sharp\Assessment_2\bin\Debug\Assessment_2.pdb
+D:\dotnet\Assessment\C sharp\Assessment_2\obj\Debug\Assessment_2.csproj.AssemblyReference.cache
+D:\dotnet\Assessment\C sharp\Assessment_2\obj\Debug\Assessment_2.csproj.CoreCompileInputs.cache
+D:\dotnet\Assessment\C sharp\Assessment_2\obj\Debug\Assessment_2.exe
+D:\dotnet\Assessment\C sharp\Assessment_2\obj\Debug\Assessment_2.pdb
