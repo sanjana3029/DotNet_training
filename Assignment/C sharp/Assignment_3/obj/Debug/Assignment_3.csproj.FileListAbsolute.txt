@@ -1,7 +1,6 @@
 D:\dotnet\Assignment\C sharp\Assignment_3\bin\Debug\Assignment_3.exe.config
 D:\dotnet\Assignment\C sharp\Assignment_3\bin\Debug\Assignment_3.exe
 D:\dotnet\Assignment\C sharp\Assignment_3\bin\Debug\Assignment_3.pdb
-D:\dotnet\Assignment\C sharp\Assignment_3\obj\Debug\Assignment_3.csproj.AssemblyReference.cache
 D:\dotnet\Assignment\C sharp\Assignment_3\obj\Debug\Assignment_3.csproj.CoreCompileInputs.cache
 D:\dotnet\Assignment\C sharp\Assignment_3\obj\Debug\Assignment_3.exe
 D:\dotnet\Assignment\C sharp\Assignment_3\obj\Debug\Assignment_3.pdb

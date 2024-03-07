@@ -12,16 +12,16 @@ namespace Assignment_3
         {
             double schlorAmount = 0;
 
-            if (marks >= 70 && marks <= 80) 
+            if (marks >= 70 && marks <= 80)
             {
                 schlorAmount = 0.2 * fees;
             }
 
-            else if(marks > 80 && marks <= 90)
+            else if (marks > 80 && marks <= 90)
             {
                 schlorAmount = 0.3 * fees;
             }
-            else if(marks >90)
+            else if (marks > 90)
             {
                 schlorAmount = 0.5 * fees;
             }
@@ -29,5 +29,22 @@ namespace Assignment_3
             return schlorAmount;
 
         }
+        static void Main(string[] args)
+        {
+
+            Schlorship sch = new Schlorship();
+
+            Console.Write("Enter the Marks: ");
+            double marks = double.Parse(Console.ReadLine());
+
+            Console.Write("Enter the Fees: ");
+            double fees = double.Parse(Console.ReadLine());
+
+            double amount = sch.Merit(marks, fees);
+            Console.WriteLine($"schlorship amount: {amount}");
+            Console.Read();
+
+        }
     }
 }
+
