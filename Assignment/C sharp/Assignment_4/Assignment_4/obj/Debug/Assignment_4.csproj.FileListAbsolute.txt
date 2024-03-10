@@ -1,0 +1,10 @@
+D:\dotnet\Assignment\C sharp\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe.config
+D:\dotnet\Assignment\C sharp\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe
+D:\dotnet\Assignment\C sharp\Assignment_4\Assignment_4\bin\Debug\Assignment_4.pdb
+D:\dotnet\Assignment\C sharp\Assignment_4\Assignment_4\bin\Debug\Concession.dll
+D:\dotnet\Assignment\C sharp\Assignment_4\Assignment_4\bin\Debug\Concession.pdb
+D:\dotnet\Assignment\C sharp\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csproj.AssemblyReference.cache
+D:\dotnet\Assignment\C sharp\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csproj.CoreCompileInputs.cache
+D:\dotnet\Assignment\C sharp\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csproj.CopyComplete
+D:\dotnet\Assignment\C sharp\Assignment_4\Assignment_4\obj\Debug\Assignment_4.exe
+D:\dotnet\Assignment\C sharp\Assignment_4\Assignment_4\obj\Debug\Assignment_4.pdb
